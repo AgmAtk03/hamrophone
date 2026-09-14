@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/sell",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "राम्रो Phone",
+      "hasCanvas": false,
+      "bodyTextLen": 1918,
+      "bodyTextHash": "b3f8b7d55bda91fa845cacf231804a64da780d80cd1fdbf524da88d8ecd87fa0",
+      "bodyTextPrefix": "र राम्रो Phone Home Shop Sell Deals Our shop EN / नेपाली SELL · ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/sell.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "राम्रो Phone",
+      "hasCanvas": false,
+      "bodyTextLen": 1905,
+      "bodyTextHash": "ccc24f7abeb5cdba43fc565c179deaf0fd34a5121eee9071e379d9eacd989c2b",
+      "bodyTextPrefix": "र राम्रो Phone ने SELL · TRADE · EXCHANGE What is your phone wor",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/sell-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/sell.json"
+}

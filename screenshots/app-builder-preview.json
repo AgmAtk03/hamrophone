@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "हाम्रो Phone",
+      "hasCanvas": false,
+      "bodyTextLen": 2243,
+      "bodyTextHash": "7ebad1e9371903fc03396f5f68d507eaf364a84b24381a3447e5d490a8ddb38a",
+      "bodyTextPrefix": "ह हाम्रो Phone Home Shop Sell Deals Our shop EN / नेपाली OUR OFF",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "हाम्रो Phone",
+      "hasCanvas": false,
+      "bodyTextLen": 1927,
+      "bodyTextHash": "d3eca3c1cbd8d204c515a5f7e3b7bd859be091cc7bd5657dffbb77b0d145f768",
+      "bodyTextPrefix": "ह हाम्रो Phone ने OUR OFFER Dashain offer Up to 12-month warrant",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
